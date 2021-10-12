@@ -3,7 +3,7 @@
 ## rashin__ff
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/Rashinx.jpg>
+  <img src=https://www.linkpicture.com/q/IMG-20210729-WA0235.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/Rashinx.jpg>
+  [![RASHIN-X](<img src=https://www.linkpicture.com/q/IMG-20210729-WA0235.jpg>
  https://github.com/Amalser_v1 |  
 ----|
 [Its_me_Amal](https://github.com/Rashin-dq/RASHIN-X)  |
