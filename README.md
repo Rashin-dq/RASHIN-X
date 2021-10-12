@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![RASHIN-X](<img src=https://www.linkpicture.com/q/IMG-20210729-WA0235.jpg>
+  [![RASHIN-X](<img src=IMG-20210729-WA0235.jpg>
  https://github.com/Rashin-dq/RASHIN-X |  
 ----|
 [rashin__ff](https://github.com/Rashin-dq/RASHIN-X)  |
