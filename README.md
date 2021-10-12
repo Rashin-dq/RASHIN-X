@@ -48,8 +48,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![RASHIN-X](<img src=https://www.linkpicture.com/q/IMG-20210729-WA0235.jpg>
  https://github.com/Amalser_v1 |  
 ----|
-[Its_me_Amal](https://github.com/Rashin-dq/RASHIN-X)  |
-Base, Bug Fixes, Modules | 
+[rashin__ff](https://github.com/Rashin-dq/RASHIN-X)  |
+Base, Bug Fixes, Modules | 
   
     
 
