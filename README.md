@@ -3,7 +3,7 @@
 ## rashin__ff
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210729-WA0235.jpg>
+  <img src=IMG-20210729-WA0235.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
